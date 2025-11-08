@@ -11,4 +11,5 @@ void test(){
     // leader khong biet da merrger va code ow day
 
     //member: code cho leader pull khong rebase xem lich su commit
+    // leader code o day cho member pull
 }
