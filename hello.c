@@ -6,4 +6,5 @@ void print_hello(){
     printf("Day la code từ email: hcmut");
     printf("Day la code tư emain: hcmut test2");
     printf("day la code tu: @gmail.com");
+    printf("Day la code tu email: hcmut");
 }
