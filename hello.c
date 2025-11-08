@@ -12,4 +12,5 @@ void print_hello(){
     printf("Code from renesas.com");
     printf("Code from renesas.com thu2");
     printf("Code from renesas.com thu3");
+    printf("Code from BVien");
 }
