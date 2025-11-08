@@ -19,4 +19,5 @@ void print_hello(){
     // them bat dau code ơ day
     //leader code o day de gay ra pull conflict
     // team code o day nhung bi con flict voi leader
+    // leader tiep tuc code o day nhung team da giai quyet conflict
 }
