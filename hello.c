@@ -11,4 +11,5 @@ void print_hello(){
     printf("Day la code tu vule@gmail.com/test");
     printf("Code from renesas.com");
     printf("Code from renesas.com thu2");
+    printf("Code from renesas.com thu3");
 }
