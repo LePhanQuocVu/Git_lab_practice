@@ -4,4 +4,5 @@ void print_hello(){
     printf("Su dung de test git rebase");
     printf("Su dung de dung: git pull --rebase");
     printf("Day la code từ email: hcmut");
+    printf("Day la code tư emain: hcmut test2");
 }
