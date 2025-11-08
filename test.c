@@ -14,5 +14,6 @@ void test(){
     // leader code o day cho member pull
     // leader code o day cho member pull khong conclict test lan2
     //1 
-    
+    //2mem
+
 }
