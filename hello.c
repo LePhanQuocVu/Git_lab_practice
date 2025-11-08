@@ -15,4 +15,5 @@ void print_hello(){
     printf("Code from BVien");
     print_f("Code ban vien truong hop --rebase khong conflic");
     print_f("Code ban vien truong hop --rebase khong conflict commit2");
+    //leader: bat dau test merger owr day
 }
