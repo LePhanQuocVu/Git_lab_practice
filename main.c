@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main() {
     return 0;
-    // team member code ở đây và gây ra conflict
+    // team member code ở đây và gây ra conflict // team ban vien them 1 chut ow day
     // leader code ở đây để gây ra conflict cho team member khi pull về
     // leader gcode ơ đây
     // team tieeps tuc code o day va gay ra confflict voi leader chua commit
