@@ -5,4 +5,5 @@ void test(){
     // banvien: test for conflict --rebase commit 1
     // banvien: test for conflict --rebase commit 2
     // banvien: test for conflict --rebase commit 3
+    // renessas: test cho conflict file1
 }
