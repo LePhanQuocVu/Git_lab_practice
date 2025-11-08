@@ -12,4 +12,5 @@ void test(){
 
     //member: code cho leader pull khong rebase xem lich su commit
     // leader code o day cho member pull
+    // leader code o day cho member pull khong conclict test lan2
 }
