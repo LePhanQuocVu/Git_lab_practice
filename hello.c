@@ -21,4 +21,5 @@ void print_hello(){
     // team code o day nhung bi con flict voi leader
     // leader tiep tuc code o day nhung team da giai quyet conflict
     // 1
+    //2
 }
