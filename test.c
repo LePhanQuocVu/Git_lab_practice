@@ -8,6 +8,7 @@ void test(){
     // renessas: test cho conflict file1
     // team cung code o day de ra conflict file test
     // renenas: leader code gay confflict owr file tesst
+    // leader khong biet da merrger va code ow day
 
     //member: code cho leader pull khong rebase xem lich su commit
 }
