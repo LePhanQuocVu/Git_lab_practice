@@ -17,5 +17,6 @@ void print_hello(){
     print_f("Code ban vien truong hop --rebase khong conflict commit2");
     //leader: bat dau test merger owr day
     // them bat dau code ơ day
+    //leader code o day de gay ra pull conflict
     // team code o day nhung bi con flict voi leader
 }
