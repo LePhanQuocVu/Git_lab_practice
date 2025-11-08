@@ -22,4 +22,6 @@ void print_hello(){
     // leader tiep tuc code o day nhung team da giai quyet conflict
     // 1
     //2
+    //3
+    //4
 }
