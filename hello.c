@@ -29,4 +29,6 @@ void print_hello(){
     //7
     printf("Day la code tu detached Head cua branch: user1_feature");
     print("Test upstream từ branch: user1_feature3");
+    //member1
+    //member2
 }
