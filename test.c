@@ -19,4 +19,5 @@ void test(){
     // leader code de test: reneass
     // leader code 2
     // leader code ơ day ko gay ra conflicet pull
+    // leader code ơ day ko gay ra conflicet pull2
 }
