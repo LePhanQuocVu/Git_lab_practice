@@ -12,5 +12,8 @@ int main() {
     // leader cho conflice ở main
     // team bieets leader code o day nhung van code de gay ra conflict file main
     // team code day ko anh huong leader
+    // leader code ow main ko anh huong gi den team// 
+    // tiep tuc code o main
+    // code main
     // bv: team code o nhanh user1_feature cho pull 
 }
